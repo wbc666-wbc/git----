@@ -1,3 +1,1 @@
-import sys
-x=sys.stdin.readline()
-print(x)
+print('这是我的第一项git代码')
